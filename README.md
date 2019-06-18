@@ -1,8 +1,11 @@
-# Programacion-de-perifericos
-Universidad Politecnica de Tulancingo
-Luis enrique Medellin Cordero
-Ing. Electronica y Telecomunicaciones
-Prof. Arturo Negrete 
+    
+/*********************************************************************************************
+*                       Universidad Politecnica de Tulancingo                                *
+*        	       Ingenieria en Electronica y Telecomunicaciones                              *
+*                          ALUMNO: luis enrique medellin cordero                             *
+*                             Programacion De Periféricos                                    *
+*                              Arturo Negrete Medellin                                       *
+**********************************************************************************************/
 
 trabajos:
 mat cliente
